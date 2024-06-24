@@ -3,7 +3,7 @@
 This is the repository for the Chat App that is built using Kotlin, Material3, Jetpack Compose Libraries by adopting an MVVM ( Model View View Model) Architecture Scheme. This App harnesses the performance of the Gemini Pro Model to achieve Visual Question Answering, Language Translation Tasks, and Authorship Attribution.
 The Query entered by the user on clicking the submit button is sent as an input to the Gemini API which returns a response to the query entered by the user.
 
-#Screenshots
+# Screenshots
 ![1](https://github.com/neelalohith/Query-Resolver-Assistant/assets/98219059/4c6db654-b3bc-4c7d-ac94-c8d59ba92f1c)
 ![2](https://github.com/neelalohith/Query-Resolver-Assistant/assets/98219059/847a8a60-cea7-4d68-9675-b39b8096eb1b)
 ![3](https://github.com/neelalohith/Query-Resolver-Assistant/assets/98219059/58d15ce6-56ce-45e1-bf06-f369403c2a25)
